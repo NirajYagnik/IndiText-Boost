@@ -1,0 +1,7 @@
+1. Synonym Replacement: For this technique, we will randomly select words from the input text of an Indian language and replace them with their corresponding synonyms. This technique will thus introduce semantic variations in the new augmented text while maintaining the meaning of the data. N words are randomly selected from the input sentence (that are not stop words); these words and then replaced by their synonyms. 
+
+2. Random Insertion: This technique will find a random synonym of a random word in the sentence written in the Indian language (that is not a stop word). This synonym is inserted at an arbitrary position in the sentence.
+
+3. Random Swap (RS): Randomly choose two words in the sentence and swap their positions. Do this n times.
+        
+4. Random Deletion (RD): This technique randomly removes words in the text with a certain probability (p). The model is forced to rely on the remaining words after certain terms are eliminated, possibly leading to the learning of more robust representations.

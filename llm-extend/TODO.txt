@@ -1,0 +1,1 @@
+Text Extender/LLM Extender: In this technique, the input size is extended by using Language Models (GPT2 specifically) while maintaining the overall context and sentiment of the input. By adding more context and possibly offering fresh viewpoints or facts, this strategy helps lengthen the input.
